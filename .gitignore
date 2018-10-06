@@ -1,0 +1,11 @@
+
+.idea/modules.xml
+.idea/misc.xml
+.idea/jsLinters/jshint.xml
+.idea/jsLibraryMappings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/eslintPlugin.xml
+.idea/dictionaries/shobhitsingh.xml
+.idea/codeStyles/codeStyleConfig.xml
+*.xml
+*.iml
