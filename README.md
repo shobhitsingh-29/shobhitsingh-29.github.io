@@ -1,2 +1,2 @@
 # shobhitsingh-29.github.io
-live demo
+live demo for all projects
