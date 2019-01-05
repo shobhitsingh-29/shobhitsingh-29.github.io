@@ -9,3 +9,4 @@
 .idea/codeStyles/codeStyleConfig.xml
 *.xml
 *.iml
+.DS_Store
